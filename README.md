@@ -1,5 +1,6 @@
 # first-repo
 This is my first repo.
 
-# fhgjg
-hii
+# Topic 
+learnig git and github
+
